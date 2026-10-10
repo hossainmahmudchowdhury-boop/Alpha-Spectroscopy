@@ -13,12 +13,12 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 
 | Component                        | Example Part / Spec                          | Approx. Cost |
 |----------------------------------|----------------------------------------------|--------------|
-| Dichroic Mirror                  | Thorlabs DMLP550 (550 nm cut-on)             | €195        |
-| Longpass Filter                  | Thorlabs FELH0550 (550 nm)                   | €150        |
-| Bandpass Filter                  | 532 nm, 10 nm FWHM                           | €95         |
-| Focusing Lens                    | Thorlabs AC127-019-A (f = 19 mm)             | €59         |
-| Microscope Objective             | 20× infinity-corrected                       | €50         |
-| Spectrometer                     | Surplus unit (e.g. B&W Tek BTC 100-2S)       | €180        |
-| 532 nm Laser Module              | >30 mW, Ø12 mm                               | €10         |
-| Hardware (screws, magnets, etc.) | M3 inserts, magnets 6×2 mm                   | €10         |
-| **Total (optics + mechanics)**   |                                              | **~€750**   |
+| Dichroic Mirror                  | Thorlabs DMLP550 (550 nm cut-on)             |         |
+| Longpass Filter                  | Thorlabs FELH0550 (550 nm)                   |        |
+| Bandpass Filter                  | 532 nm, 10 nm FWHM                           |          |
+| Focusing Lens                    | Thorlabs AC127-019-A (f = 19 mm)             |          |
+| Microscope Objective             | 20× infinity-corrected                       |          |
+| Spectrometer                     | Surplus unit (e.g. B&W Tek BTC 100-2S)       |         |
+| 532 nm Laser Module              | >30 mW, Ø12 mm                               |          |
+| Hardware (screws, magnets, etc.) | M3 inserts, magnets 6×2 mm                   |          |
+| **Total (optics + mechanics)**   |                                              |    |
