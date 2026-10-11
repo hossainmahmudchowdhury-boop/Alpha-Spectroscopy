@@ -13,12 +13,10 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 
 | Component                        | Example Part / Spec                          | Approx. Cost |
 |----------------------------------|----------------------------------------------|--------------|
-| Dichroic Mirror                  | Thorlabs DMLP550 (550 nm cut-on)             |         |
-| Longpass Filter                  | Thorlabs FELH0550 (550 nm)                   |        |
-| Bandpass Filter                  | 532 nm, 10 nm FWHM                           |          |
-| Focusing Lens                    | Thorlabs AC127-019-A (f = 19 mm)             |          |
-| Microscope Objective             | 20× infinity-corrected                       |          |
-| Spectrometer                     | Surplus unit (e.g. B&W Tek BTC 100-2S)       |         |
-| 532 nm Laser Module              | >30 mW, Ø12 mm                               |          |
-| Hardware (screws, magnets, etc.) | M3 inserts, magnets 6×2 mm                   |          |
-| **Total (optics + mechanics)**   |                                              |    |
+ |  Quartz Flow Cuvette             |                                                |  $63        |
+| TFT LCD Display                   |4.0 inch 320X480 SPI Serial TFT LCD Display  |  $25       |
+| Microscope Objective             | 20× infinity-corrected                       | $38          |
+| Spectrometer                     | AS7341 11-Channel Color Spectrometer,       |         |
+| 532 nm Laser Module              | >30 mW, Ø12 mm                               |   $9       |
+| Hardware (screws, etc.) | M3 inserts, magnets 6×2 mm                   |          |
+| ** Total  **   |                                              |    |
