@@ -19,4 +19,5 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 | Spectrometer                     | AS7341 11-Channel Color Spectrometer,       |  12.41       |[Link](https://ali.onl/2yHc) |
 | 532 nm Laser Module              | >30 mW, Ø12 mm                               |   $9       |[Link]() |
 | Hardware (screws, etc.) |                                                       |          |
-| ** Total  **   |                                              |    |
+|Main Body                          |                                             |     Print Legion     |
+| ** Total  **   |                                              |   $99 |
