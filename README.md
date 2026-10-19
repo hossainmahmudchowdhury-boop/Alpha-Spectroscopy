@@ -9,7 +9,7 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 
 
 
-## Bill of Materials (approximate)
+## Bill of Materials 
 
 | Component                        | Example Part / Spec                          |  Cost | Link|
 |----------------------------------|----------------------------------------------|--------------|----|
