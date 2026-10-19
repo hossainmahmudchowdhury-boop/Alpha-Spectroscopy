@@ -12,20 +12,22 @@ Most of the time, pathogens have the same cellular structure, and the base can b
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/spectro_cad_rotation.gif)
 
 ## Bill of Materials 
+## Bill of Materials (BOM)
 
-| Component                        | Example Part / Spec                          |  Cost | Link|
-|----------------------------------|----------------------------------------------|--------------|----|
- |  Quartz Flow Cuvette             |                                                |  $63        | [Link](https://ali.onl/2yHe) |
-| TFT LCD Display                   |4.0 inch 320X480 SPI Serial TFT LCD Display  |  $25       | [Link](https://ali.onl/2yHd) |
-| Microscope Objective             | 20× infinity-corrected                       | $38          |[Link]() |
-| Spectrometer                     | AS7341 11-Channel Color Spectrometer,       |  $12.41       |[Link](https://ali.onl/2yHc) |
-| 532 nm Laser Module              | >30 mW, Ø12 mm                               |   $9       |[Link](https://alishort.com/OXYSS) |
-| Hardware (screws, etc.) |                                                       |     $8    |
-|Arduino Mega                       |                                             |Already Owned |       |
-| Servo                              |                                            | Already Owned  |       |
-|Shipping                           |                                             | $15|                 |
-| **  Sub Total  **   |                                              |   $170.41  ||
-|Main Body                          |                                             |     Print Legion     |
-| ** Total  **   |                                              |   $185||
+| Component | Example Part / Specification | Cost (USD) | Link |
+|---|---|---:|---|
+| Quartz Flow Cuvette | Quartz optical flow cell | $63.00 | [AliExpress](https://ali.onl/2yHe) |
+| TFT LCD Display | 4.0-inch, 320 × 480, SPI Serial TFT LCD | $25.00 | [AliExpress](https://ali.onl/2yHd) |
+| Microscope Objective | 20× infinity-corrected objective | $38.00 | [Reference](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main) |
+| Spectrometer | AS7341 11-channel color spectrometer | $12.41 | [AliExpress](https://ali.onl/2yHc) |
+| 532 nm Laser Module | Greater than 30 mW, Ø12 mm | $9.00 | [Product Link](https://alishort.com/OXYSS) |
+| Hardware | Screws and miscellaneous mounting components | $12.00 | — |
+| Arduino Mega | Main microcontroller | Already owned | — |
+| Servo Motor | Optical component positioning | Already owned | — |
+| Shipping | Estimated delivery charges | $15.00 | — |
+| **Subtotal (Purchased Components and Shipping)** | | **$170.41** | |
+| Main Body | Custom 3D-printed body | Print Legion | — |
+| **Total Estimated Project Cost** | Including estimated main body cost | **$189.00** | |
+
 
 > **Note:** All prices are approximate and may vary depending on supplier, availability, shipping, and import duties. Additional shipping may increase the final cost if it is not already included.
