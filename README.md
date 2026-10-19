@@ -18,9 +18,9 @@ Most of the time, pathogens have the same cellular structure, and the base can b
 |---|---|---:|---|
 | Quartz Flow Cuvette | Quartz optical flow cell | $63.00 | [AliExpress](https://ali.onl/2yHe) |
 | TFT LCD Display | 4.0-inch, 320 × 480, SPI Serial TFT LCD | $25.00 | [AliExpress](https://ali.onl/2yHd) |
-| Microscope Objective | 20× infinity-corrected objective | $38.00 | [Reference](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main) |
+| Microscope Objective | 20× infinity-corrected objective | $38.00 | [AliExpress](https://alishort.com/CWBjR) |
 | Spectrometer | AS7341 11-channel color spectrometer | $12.41 | [AliExpress](https://ali.onl/2yHc) |
-| 532 nm Laser Module | Greater than 30 mW, Ø12 mm | $9.00 | [Product Link](https://alishort.com/OXYSS) |
+| 532 nm Laser Module | Greater than 30 mW, Ø12 mm | $9.00 | [AliExpress](https://alishort.com/OXYSS) |
 | Hardware | Screws and miscellaneous mounting components | $12.00 | — |
 | Arduino Mega | Main microcontroller | Already owned | — |
 | Servo Motor | Optical component positioning | Already owned | — |
