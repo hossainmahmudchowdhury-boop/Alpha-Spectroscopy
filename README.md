@@ -7,11 +7,11 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 ### Basic concept Image
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/Screenshot%202026-10-09%20154308.png)
 
-|----------------------------------------------------------------------------------------------------------------------------|
-Most of the time, pathogens have the same cellular structure, and the base can be defined by the spectrodata. So, to take a proper image of the spectro, I have to make the body in black and thus it can absorb the unnecessary light.
+##
+Most of the time, pathogens have the same cellular structure, and the base can be defined by the spectrodata. So, to get a proper spectro image, I have to make the body black so it absorbs unnecessary light.
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/spectro_cad_rotation.gif)
 
-## Bill of Materials 
+
 ## Bill of Materials (BOM)
 
 | Component | Example Part / Specification | Cost (USD) | Link |
