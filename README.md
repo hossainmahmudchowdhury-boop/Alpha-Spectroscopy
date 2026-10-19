@@ -7,7 +7,7 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/Screenshot%202026-10-09%20154308.png)
 
-
+![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/spectro_cad_rotation.gif)
 
 ## Bill of Materials 
 
