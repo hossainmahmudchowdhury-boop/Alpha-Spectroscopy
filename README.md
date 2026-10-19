@@ -18,7 +18,7 @@ Most of the time, pathogens have the same cellular structure, and the base can b
  |  Quartz Flow Cuvette             |                                                |  $63        | [Link](https://ali.onl/2yHe) |
 | TFT LCD Display                   |4.0 inch 320X480 SPI Serial TFT LCD Display  |  $25       | [Link](https://ali.onl/2yHd) |
 | Microscope Objective             | 20× infinity-corrected                       | $38          |[Link]() |
-| Spectrometer                     | AS7341 11-Channel Color Spectrometer,       |  12.41       |[Link](https://ali.onl/2yHc) |
+| Spectrometer                     | AS7341 11-Channel Color Spectrometer,       |  $12.41       |[Link](https://ali.onl/2yHc) |
 | 532 nm Laser Module              | >30 mW, Ø12 mm                               |   $9       |[Link](https://alishort.com/OXYSS) |
 | Hardware (screws, etc.) |                                                       |     $8    |
 |Arduino Mega                       |                                             |Already Owned |       |
