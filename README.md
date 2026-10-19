@@ -22,6 +22,6 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 |Arduino Mega                       |                                             |Already Owned |       |
 | Servo                              |                                            | Already Owned  |       |
 |Shipping                           |                                             | $15|                 |
-| ** Total  **   |                                              |   $170.41  ||
+| **  Sub Total  **   |                                              |   $170.41  ||
 |Main Body                          |                                             |     Print Legion     |
-| ** Sub Total  **   |                                              |   $85||
+| ** Total  **   |                                              |   $185||
