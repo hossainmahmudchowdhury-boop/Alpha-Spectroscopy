@@ -11,6 +11,11 @@ The optical design follows a common epi-illumination (backscattering) geometry w
 Most of the time, pathogens have the same cellular structure, and the base can be defined by the spectrodata. So, to get a proper spectro image, I have to make the body black so it absorbs unnecessary light.
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/spectro_cad_rotation.gif)
 
+## Diagram
+
+![image alt](https://github.com/hossainmahmudchowdhury-boop/Alpha-Spectroscopy/blob/main/Images/spectrodiagram.png)
+Additionally, the laser pointer will be powered external.
+
 
 ## Bill of Materials (BOM)
 
